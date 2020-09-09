@@ -1,5 +1,5 @@
 '''
-Plots the function and its fourier series for different upper limit of n (Nmax)
+Plots the function and its fourier series for given upper limit of n (Nmax)
 
 f(x) ~ a0 + sum(n=1, Nmax)(an*cos(n*pi*x/L) + bn*sin(n*pi*x/L))
 
